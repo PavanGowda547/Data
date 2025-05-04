@@ -60,7 +60,7 @@ The rise of Big Data has driven innovation in areas like cloud computing, distri
 
 Imagine data has a life, like a person. It gets born (created), gets collected and stored somewhere safe, then we use it to learn things. Some data we need to keep for a long time (archived), and eventually, when it's no longer useful, we get rid of it (purged). The **[data lifecycle](https://online.hbs.edu/blog/post/data-life-cycle)** is just all these stages data goes through from beginning to end. It helps us manage data properly so it's useful, secure, and we don't keep it around longer than we need to.
 
-![Data lifecycle](https://res.cloudinary.com/dry8rzbyx/image/fetch/s--BwRTmuVJ--/f_auto/q_auto/c_scale,w_1536/https://www.knime.com/sites/default/files/public/2024-08/the_data_lifecycle.png)
+![Data lifecycle](https://asiadatadestruction.com/wp-content/uploads/2020/08/data-lifecycle-management-1.jpeg)
   
 **Data Lifecycle (DLC) - More Details:**
 Think of the DLC as a roadmap for your data. It's not just about what happens to the data, but also how we manage it at each step.
