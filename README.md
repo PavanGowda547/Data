@@ -14,7 +14,8 @@ Each individual value within a dataset is called a datum. For example, a single 
   
 [Data](https://www.ibm.com/think/topics/data) exists in various forms. Structured data is organized with a predefined format, like spreadsheets. Unstructured data, such as text and images, lacks this rigid structure. Semi-structured data offers some organization through tags. By nature, qualitative data describes qualities, while quantitative data involves numbers. Understanding these types is key for effective data handling and analysis.  
 
-![Data type Images](https://365datascience.com/resources/blog/xzk3rl06exk-data-types.jpeg)  
+<img src="https://365datascience.com/resources/blog/xzk3rl06exk-data-types.jpeg" style="height:260px;width:390px;margin-left:130" alt="Different types data image"></img>
+
 **[Different types of Data](https://www.turing.com/kb/statistical-data-types)**:  
 This classification focuses on how the data is organized and the degree to which it adheres to a predefined format.
 1. Structured Data: It is a type of highly organized data that conforms to a predefined data model (a schema). This makes it easy to store, manage, and analyze using traditional database systems. Think of it as data that fits neatly into tables with rows and columns.  
@@ -36,7 +37,8 @@ The [history of data](https://rathi-ankit.medium.com/a-brief-history-of-data-bc4
 [Big Data](https://www.oracle.com/in/big-data/what-is-big-data/) is a term used to describe extremely large and complex datasets that are difficult or impossible to process effectively with traditional data processing applications.   
 Think of regular data as a small pond. Big Data is like a massive ocean! It's huge amounts of information that come in very fast (velocity) and in many different forms (variety) – like text, videos, sensor readings, social media posts. It's so big and complex that normal computers and software struggle to handle it. We use special tools and techniques to store, process, and analyze this "ocean" of data to find valuable insights that can help businesses, scientists, and governments make better decisions and understand the world in new ways.  
 
-![Big data image](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/694991_cDO5wuA0NdevLb45zHRvog.jpeg)  
+<img src="https://dz2cdn1.dzone.com/storage/temp/9159302-big-data-infographic.jpg" style="height:330px;width:350px;margin-left:130" alt="big data iage"></img>
+ 
 It's not just about the volume of the data, although that's a significant aspect. Big Data is often characterized by a combination of factors, commonly known as the "V"s:
 
 1. Volume: Imagine the difference between a single book and the entire Library of Congress. Big Data is on that Library of Congress scale, constantly growing.
@@ -60,7 +62,7 @@ The rise of Big Data has driven innovation in areas like cloud computing, distri
 
 Imagine data has a life, like a person. It gets born (created), gets collected and stored somewhere safe, then we use it to learn things. Some data we need to keep for a long time (archived), and eventually, when it's no longer useful, we get rid of it (purged). The **[data lifecycle](https://online.hbs.edu/blog/post/data-life-cycle)** is just all these stages data goes through from beginning to end. It helps us manage data properly so it's useful, secure, and we don't keep it around longer than we need to.
 
-<img src="https://asiadatadestruction.com/wp-content/uploads/2020/08/data-lifecycle-management-1.jpeg"></img>
+<img src="https://asiadatadestruction.com/wp-content/uploads/2020/08/data-lifecycle-management-1.jpeg" style="height:230px;width:300px;margin-left:180"></img>
   
 **Data Lifecycle (DLC) - More Details:**
 Think of the DLC as a roadmap for your data. It's not just about what happens to the data, but also how we manage it at each step.
